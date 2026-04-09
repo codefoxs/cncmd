@@ -1,0 +1,11 @@
+v 0.1.1
+d 'CNCMD': module for Chinese command cheatsheet for empirical research
+d KW: China
+d KW: Cheatsheet
+d KW: Empirical Research
+d 
+d Distribution-Date: 20260409
+d 
+
+f cncmd.ado
+f cncmd.sthlp

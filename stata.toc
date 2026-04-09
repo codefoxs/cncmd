@@ -1,0 +1,3 @@
+v 0.1.1
+
+p 'CNCMD': module for Chinese command cheatsheet for empirical research
